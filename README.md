@@ -1,9 +1,9 @@
 # |(=ಠ ل͟ ಠ=)
 Лабораторные работы по Объектно Ориентированному Программированию студента группы РИЗ-280028.
 
-1.1 - First.java
-1.2 - Scnd.java
-1.3 - Trd.java
-1.4 - Four.java
-1.5 - Five.java
-1.6 - Six.java
+- 1.1 - First.java
+- 1.2 - Scnd.java
+- 1.3 - Trd.java
+- 1.4 - Four.java
+- 1.5 - Five.java
+- 1.6 - Six.java
