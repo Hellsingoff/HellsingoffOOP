@@ -2,17 +2,17 @@ package lab3;
 
 class OneText {
 	private String str;
-	OneText(String str) { this.str = str; }
-	public String toString() { return this.getClass().getSimpleName() + ": " + str;	}
+	public OneText(String str) { this.str = str; }
+	public String toString() { return this.getClass().getSimpleName() + ": " + str; }
 }
 
 class TwoText extends OneText {
 	private String str2;
-	TwoText(String str) {
+	public TwoText(String str) {
 		super(str);
 		str2 = "";
 	}
-	TwoText(String str, String str2) {
+	public TwoText(String str, String str2) {
 		super(str);
 		this.str2 = str2;
 	}
