@@ -33,7 +33,7 @@ class CharStrInt extends CharStr {
 	}
 }
 
-public class lab3_4 {
+public class Lab3_4 {
 	public static void main(String[] args) {
 		CharStrInt test = new CharStrInt('a', "qwe", 1);
 		CharStrInt copyTest = new CharStrInt(test);

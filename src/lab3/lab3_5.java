@@ -33,7 +33,7 @@ class StrChar extends OneStr {
 	}
 }
 
-public class lab3_5 {
+public class Lab3_5 {
 	public static void main(String[] args) {
 		OneStr test1 = new OneStr("qwe");
 		StrInteger test2 = new StrInteger("rty", 1);
